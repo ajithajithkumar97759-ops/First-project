@@ -1,0 +1,7 @@
+
+a=input("enter the place name1")
+b=imput("enter the place name2")
+if a=="koomapatti":
+print ("going to ",a)
+elif b=="Villupuram "
+print("going to",b)
